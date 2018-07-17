@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private void test() {
         Log.i("test","git");
         Log.i("test2","git");
+        Log.i("tesr3","git");
     }
 }
