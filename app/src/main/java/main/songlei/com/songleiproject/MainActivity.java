@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private void test() {
         Toast.makeText(MainActivity.this,"git尝试",0).show();
         Toast.makeText(MainActivity.this,"git尝试1",0).show();
+        Toast.makeText(MainActivity.this,"git尝试2",0).show();
     }
 }
