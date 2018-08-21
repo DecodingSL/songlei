@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/040506e2afd6fed65dbd1be815fb2f33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/songlei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a4b6d5f562629a175aa163ea51b54b45/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/08bb2cf0647bcc3811831c9b7f76fe2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/e37e0be20a0791f2fa6395d6ffc113fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/02e9beb6677aff8e4be04c2e69acc526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0e171bb54bb3ae36f13903fc2977cd6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ddde78adf5c7973ceabc4f810b2ecb0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e8394b02e2bd129c2e9999ceff20c721/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/accad3df7135938f82f9c886ec2d3897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5a8448e34dbe583b80cd76117315e6e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/170352d7e1fc9a2b68eec7c77463be09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5551fe5af1c428d734dd6911e5cacc12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/00fce98228fbc2da2967a3b160871b5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e1bbe46a4d83034c12506f66dc28b641/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/9996afe749ffe5051086f80b7b4ab4fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/309f766bd822c741fd698f3abec43a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ccbbe1f7778bf18ce2c5cfb536efba8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15e8b00586ffdb59f3c7465fecd023df/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/528b0d782842bfadd578ff9a27141bba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/cac719ecfa6110c3ee4aaf882f197094/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/b5e92a9f90105035674bccdb066c5874/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0a2ff1c58c98ae14158969900af9b98e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6a63606160ea7d6da85f05cef413d9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e5934550532528bebaa4e5f76f5b88f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/4c7a6f55af5789ab51b356efa6f786b2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/songlei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a4b6d5f562629a175aa163ea51b54b45/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/songlei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a4b6d5f562629a175aa163ea51b54b45/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15e8b00586ffdb59f3c7465fecd023df/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15e8b00586ffdb59f3c7465fecd023df/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#main.songlei.com.songleiproject.MainActivity
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/040506e2afd6fed65dbd1be815fb2f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/040506e2afd6fed65dbd1be815fb2f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/songlei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a4b6d5f562629a175aa163ea51b54b45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/songlei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a4b6d5f562629a175aa163ea51b54b45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/08bb2cf0647bcc3811831c9b7f76fe2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/08bb2cf0647bcc3811831c9b7f76fe2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/e37e0be20a0791f2fa6395d6ffc113fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/e37e0be20a0791f2fa6395d6ffc113fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/02e9beb6677aff8e4be04c2e69acc526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/02e9beb6677aff8e4be04c2e69acc526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0e171bb54bb3ae36f13903fc2977cd6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0e171bb54bb3ae36f13903fc2977cd6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ddde78adf5c7973ceabc4f810b2ecb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/ddde78adf5c7973ceabc4f810b2ecb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e8394b02e2bd129c2e9999ceff20c721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/e8394b02e2bd129c2e9999ceff20c721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/accad3df7135938f82f9c886ec2d3897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/accad3df7135938f82f9c886ec2d3897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5a8448e34dbe583b80cd76117315e6e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5a8448e34dbe583b80cd76117315e6e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/170352d7e1fc9a2b68eec7c77463be09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/170352d7e1fc9a2b68eec7c77463be09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5551fe5af1c428d734dd6911e5cacc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/5551fe5af1c428d734dd6911e5cacc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/00fce98228fbc2da2967a3b160871b5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/00fce98228fbc2da2967a3b160871b5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e1bbe46a4d83034c12506f66dc28b641/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/e1bbe46a4d83034c12506f66dc28b641/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/9996afe749ffe5051086f80b7b4ab4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/9996afe749ffe5051086f80b7b4ab4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/0bd1ac658fa7f0d7da6d0f6ac0f471b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/309f766bd822c741fd698f3abec43a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/309f766bd822c741fd698f3abec43a1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ccbbe1f7778bf18ce2c5cfb536efba8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ccbbe1f7778bf18ce2c5cfb536efba8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15e8b00586ffdb59f3c7465fecd023df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15e8b00586ffdb59f3c7465fecd023df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/528b0d782842bfadd578ff9a27141bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/528b0d782842bfadd578ff9a27141bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/cac719ecfa6110c3ee4aaf882f197094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/cac719ecfa6110c3ee4aaf882f197094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/b5e92a9f90105035674bccdb066c5874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/b5e92a9f90105035674bccdb066c5874/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0a2ff1c58c98ae14158969900af9b98e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0a2ff1c58c98ae14158969900af9b98e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6a63606160ea7d6da85f05cef413d9d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6a63606160ea7d6da85f05cef413d9d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e5934550532528bebaa4e5f76f5b88f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/songlei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e5934550532528bebaa4e5f76f5b88f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/4c7a6f55af5789ab51b356efa6f786b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/songlei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/4c7a6f55af5789ab51b356efa6f786b2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/songlei/AndroidStudioProjects/songleiProject/app/src/main/AndroidManifest.xml
